@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee5bdc25-1565-4341-bb08-9513ed07ed83" name="Default Changelist" comment="">
+    <list default="true" id="ee5bdc25-1565-4341-bb08-9513ed07ed83" name="Default Changelist" comment="Task: Completed all summaries">
+      <change afterPath="$PROJECT_DIR$/images/bezos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bubblepop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gates.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/peoplepower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/searchengine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/zuckerberg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/browser_wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/browser_wars.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/doc_com.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/doc_com.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/internet_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/internet_search.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/invention.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/people.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +47,14 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HistoryOfInternet" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hirof\WebstormProjects\HistoryOfInternetP2\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hirof\WebstormProjects\HistoryOfInternetP2\images" />
     </key>
@@ -61,12 +67,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601500658931</updated>
-      <workItem from="1601500659978" duration="1756000" />
+      <workItem from="1601500659978" duration="4239000" />
     </task>
+    <task id="LOCAL-00001" summary="Task: Completed all summaries">
+      <created>1601502594253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601502594253</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task: Completed all summaries">
+      <created>1601502604702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601502604702</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task: Completed all summaries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Completed all summaries" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Deployment" timestamp="1601501134390">
@@ -77,10 +102,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="536" y="165" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1601500725015" />
-    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1601500975400">
+    <state x="1170" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601504401898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601500975400" />
+    <state x="1170" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601504401898" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1601502689063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601502689063" />
     <state x="1293" y="421" key="Github.ShareDialog" timestamp="1601501163063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
