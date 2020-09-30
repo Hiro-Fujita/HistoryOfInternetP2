@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee5bdc25-1565-4341-bb08-9513ed07ed83" name="Default Changelist" comment="Task: Completed all summaries">
-      <change afterPath="$PROJECT_DIR$/images/bezos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bubblepop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gates.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/peoplepower.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/searchengine.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/zuckerberg.jpg" afterDir="false" />
+    <list default="true" id="ee5bdc25-1565-4341-bb08-9513ed07ed83" name="Default Changelist" comment="Task: Added gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/browser_wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/browser_wars.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/doc_com.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/doc_com.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/internet_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/internet_search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/invention.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/people.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601500658931</updated>
-      <workItem from="1601500659978" duration="4239000" />
+      <workItem from="1601500659978" duration="4993000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Completed all summaries">
       <created>1601502594253</created>
@@ -83,7 +72,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601502604702</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task: Added images to every page under dropdown menu">
+      <created>1601504970063</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601504970063</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task: Added gitignore">
+      <created>1601505076863</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601505076863</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +94,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task: Completed all summaries" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Completed all summaries" />
+    <MESSAGE value="Task: Added images to every page under dropdown menu" />
+    <MESSAGE value="Task: Added gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Deployment" timestamp="1601501134390">
@@ -118,5 +123,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1216" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601501173988" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601505080991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601505080991" />
   </component>
 </project>
