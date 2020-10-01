@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee5bdc25-1565-4341-bb08-9513ed07ed83" name="Default Changelist" comment="Task: Minor change to people.html text.">
-      <change afterPath="$PROJECT_DIR$/images/historyofinternet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/noteam.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/team.html" afterDir="false" />
-    </list>
+    <list default="true" id="ee5bdc25-1565-4341-bb08-9513ed07ed83" name="Default Changelist" comment="Task: team page update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601500658931</updated>
-      <workItem from="1601500659978" duration="7506000" />
+      <workItem from="1601500659978" duration="7855000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Completed all summaries">
       <created>1601502594253</created>
@@ -104,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601510849387</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task: about page update">
+      <created>1601513028825</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601513028825</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task: team page update">
+      <created>1601513039244</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601513039244</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +124,9 @@
     <MESSAGE value="Task: Added gitignore" />
     <MESSAGE value="Task: Added readme" />
     <MESSAGE value="Task: Minor change to people.html text." />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Minor change to people.html text." />
+    <MESSAGE value="Task: about page update" />
+    <MESSAGE value="Task: team page update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: team page update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Deployment" timestamp="1601501134390">
