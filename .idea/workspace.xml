@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee5bdc25-1565-4341-bb08-9513ed07ed83" name="Default Changelist" comment="Task: Added gitignore">
+    <list default="true" id="ee5bdc25-1565-4341-bb08-9513ed07ed83" name="Default Changelist" comment="Task: Minor change to people.html text.">
+      <change afterPath="$PROJECT_DIR$/images/historyofinternet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/noteam.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601500658931</updated>
-      <workItem from="1601500659978" duration="4993000" />
+      <workItem from="1601500659978" duration="7506000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Completed all summaries">
       <created>1601502594253</created>
@@ -86,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601505076863</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Task: Added readme">
+      <created>1601510382920</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601510382920</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task: Minor change to people.html text.">
+      <created>1601510849387</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601510849387</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +114,9 @@
     <MESSAGE value="Task: Completed all summaries" />
     <MESSAGE value="Task: Added images to every page under dropdown menu" />
     <MESSAGE value="Task: Added gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added gitignore" />
+    <MESSAGE value="Task: Added readme" />
+    <MESSAGE value="Task: Minor change to people.html text." />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Minor change to people.html text." />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Deployment" timestamp="1601501134390">
@@ -123,9 +143,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1216" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601501173988" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601505080991">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601510391466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601505080991" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601510391466" />
   </component>
 </project>
