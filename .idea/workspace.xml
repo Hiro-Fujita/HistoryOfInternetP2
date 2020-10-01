@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee5bdc25-1565-4341-bb08-9513ed07ed83" name="Default Changelist" comment="Task: team page update" />
+    <list default="true" id="ee5bdc25-1565-4341-bb08-9513ed07ed83" name="Default Changelist" comment="Task: team page update">
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="people" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iFQ3FT6qG6vEiHOpyOcBs3bn7G" />
@@ -54,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601500658931</updated>
-      <workItem from="1601500659978" duration="7855000" />
+      <workItem from="1601500659978" duration="8422000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Completed all summaries">
       <created>1601502594253</created>
@@ -112,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601513039244</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Task: team page update">
+      <created>1601513391068</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601513391068</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,9 +167,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1216" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601501173988" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601510391466">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601513303560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601510391466" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601513303560" />
   </component>
 </project>
