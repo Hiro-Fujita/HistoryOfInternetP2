@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee5bdc25-1565-4341-bb08-9513ed07ed83" name="Default Changelist" comment="Task: team page update">
-      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+    <list default="true" id="ee5bdc25-1565-4341-bb08-9513ed07ed83" name="Default Changelist" comment="Task: about page finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601500658931</updated>
-      <workItem from="1601500659978" duration="8422000" />
+      <workItem from="1601500659978" duration="8742000" />
+      <workItem from="1601658430258" duration="1302000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Completed all summaries">
       <created>1601502594253</created>
@@ -126,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601513391068</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Task: about page finished">
+      <created>1601513829940</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601513829940</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,13 +149,14 @@
     <MESSAGE value="Task: Minor change to people.html text." />
     <MESSAGE value="Task: about page update" />
     <MESSAGE value="Task: team page update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: team page update" />
+    <MESSAGE value="Task: about page finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: about page finished" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Deployment" timestamp="1601501134390">
+    <state x="552" y="178" key="#Deployment" timestamp="1601658463936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1601501134390" />
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1601658463936" />
     <state x="536" y="165" key="#SSH_Configurations" timestamp="1601500725015">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -167,9 +177,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1216" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601501173988" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601513303560">
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601513999824">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601513303560" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601513999824" />
   </component>
 </project>
